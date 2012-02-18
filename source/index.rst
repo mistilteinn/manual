@@ -23,6 +23,9 @@ Welcome to mistilteinn's documentation!
 このドキュメントについて
 ------------------------------
 
+このドキュメントの最新版は http://readthedocs.org/docs/mistilteinn/en/latest/ で確認でき、ソースコードは https://github.com/mistilteinn/manual/ で管理されています。
+
+誤字等は、 https://github.com/mistilteinn/manual/ に対するIssues登録、もしくはpull requestで報告してください。
 
 
 
