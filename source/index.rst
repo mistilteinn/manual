@@ -6,10 +6,23 @@
 Welcome to mistilteinn's documentation!
 =======================================
 
-Contents:
+目次
+------------------------------
 
 .. toctree::
    :maxdepth: 2
+
+   overview
+   visualstudio
+   eclipse
+   emacs
+   git-tools
+   shell
+   spec
+
+このドキュメントについて
+------------------------------
+
 
 
 
