@@ -18,7 +18,8 @@ Welcome to mistilteinn's documentation!
    emacs
    git-tools
    shell
-   spec
+   config
+   local-ticket
 
 このドキュメントについて
 ------------------------------
