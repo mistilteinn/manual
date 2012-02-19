@@ -1,4 +1,4 @@
-Mistilteinn for Eclipse/Maven
+Mistilteinn for Eclipse
 ==============================
 
 インストール方法
