@@ -17,6 +17,7 @@ Welcome to mistilteinn's documentation!
    eclipse
    emacs
    git-tools
+   java
    shell
    config
    local-ticket

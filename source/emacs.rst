@@ -104,3 +104,9 @@ Mistilteinn Active Ticket Face:(sample) [Show Face]
   チケット一覧において、アクティブなチケットに対して使うfaceです。
 Mistilteinn Inactive Ticket Face
   チケット一覧において、解決済みのチケットに対して使うfaceです。
+
+バグ報告
+------------------------------
+
+要望・バグ報告は、 https://github.com/mistilteinn/mistilteinn-emacs/ に対するIssues登録、もしくはpull requestで報告してください。
+
