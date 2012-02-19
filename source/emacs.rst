@@ -1,4 +1,4 @@
-Emacs
+Mistilteinn for Emacs
 ==============================
 
 Mistilteinn for Emacsはマイナーモードとして実装されているため、任意のメジャーモードとともに利用できます。

@@ -6,6 +6,11 @@
 Welcome to mistilteinn's documentation!
 =======================================
 
+Mistilteinn(ミストルティン)とは
+-------------------------------
+
+Mistilteinn(ミストルティン)は、チケット管理システムとgitを組合せた開発をサポートするツールです。 既存のGitフロンドエンドと異なり、Gitを意識せせずに使えることを目標としています。
+
 目次
 ------------------------------
 
@@ -28,8 +33,6 @@ Welcome to mistilteinn's documentation!
 このドキュメントの最新版は http://readthedocs.org/docs/mistilteinn/en/latest/ で確認でき、ソースコードは https://github.com/mistilteinn/manual/ で管理されています。
 
 誤字等は、 https://github.com/mistilteinn/manual/ に対するIssues登録、もしくはpull requestで報告してください。
-
-
 
 Indices and tables
 ==================
