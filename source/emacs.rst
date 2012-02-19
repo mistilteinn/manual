@@ -64,7 +64,7 @@ http://www.emacswiki.org/emacs-en/mistilteinn.el からダウンロードして�
   $ mistilteinn init
 
 チケット管理システムの設定等は ``.mistilteinn/config.yaml`` に記述します。
-``mistilteinn/config.yaml`` の内容については :doc:`config` を参照してください。
+``.mistilteinn/config.yaml`` の内容については :doc:`config` を参照してください。
 
 使い方
 ------------------------------
